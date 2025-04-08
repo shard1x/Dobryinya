@@ -1,1 +1,1 @@
-print("888KILL")
+print("Hello, earth")
